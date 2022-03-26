@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nadimhm
 - 👀 I’m interested in crypto and Bitcoin
-- 🌱 I’m currently learning blockhain development
+- 🌱 I’m currently exploring blockhain development
 - 📫 How to reach me: @nadimhcm on twitter
 
 <!---
